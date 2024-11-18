@@ -17,15 +17,13 @@
     border: 1px solid #999;
     border-radius: 50px;
     box-shadow: 2px 2px 5px #ccc;
-
-
 }
 
 .types div {
     width: 100%;
-    text-align: center;
-    line-height: 80px;
     font-size: 30px;
+    line-height: 80px;
+    text-align: center;
 }
 
 .types:hover {
